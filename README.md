@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DukiDokii
 - 👀 I’m interested in ai
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on absolutely nothing.
+- ❗ Currently not looking to collaborate.
 - 📫 How to reach me @dukidokii on discord.
