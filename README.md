@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Duki.
-- 🤓 I’m interested in Game Dev.
-- 😭 I’m learning Python, Lua, and C#.
+- 😭 I’m a developer in python and lua
 - 😡 Currently NOT looking to collaborate.
-- 📫 @dukidokii on discord.
-- 😇 Founder of Quackers Studios.
+- 📫 guns.lol/dukid for socials
+- 😇 Very nice person!
 
